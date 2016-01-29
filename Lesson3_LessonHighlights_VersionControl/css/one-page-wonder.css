@@ -17,6 +17,7 @@ body {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    background-color: rgb(128, 213, 255);
 }
 
 .headline {
@@ -32,7 +33,7 @@ body {
 .headline h2 {
     font-size: 77px;
     background: #fff;
-    background: rgba(255,255,255,0.9);
+    background-color: rgb(128, 213, 255);
 }
 
 .featurette-divider {
@@ -41,6 +42,7 @@ body {
 
 .featurette {
     overflow: hidden;
+    background-color: rgb(210, 255, 77);
 }
 
 .featurette-image.pull-left {
